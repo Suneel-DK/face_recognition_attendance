@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pandas
+pillow
+openpyxl
+deepface
+tensorflow
+tf-keras
+retinaface
